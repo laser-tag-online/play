@@ -1,2 +1,2 @@
 # game
-Laser Tag Online game
+Multiplayer laser tag game
